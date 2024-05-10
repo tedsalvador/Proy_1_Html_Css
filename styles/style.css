@@ -69,12 +69,15 @@ main {
   margin: 2rem 0 0;
   border-radius: 50px;
   text-decoration: none;
-  color: #333;
+  /*color: #333;*/
+  color: #882020;
   transition: background 500ms ease;
 }
 
 .btn:hover {
-  background: #f4f4f4;
+  /*background: #f4f4f4;*/
+  background: #e40f0f;
+  color: #c9c2c2;
 }
 
 #header {
